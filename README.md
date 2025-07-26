@@ -46,9 +46,13 @@ projetoawax/
 ├── index.html
 └── README.md
 
-## 🌐 Demonstração
 
-🔗 **Acesse o site aqui:**[Clique para visitar](https://clarckdaivson.github.io/projetoawax/)
+---
+
+### Resultado Final (renderizado corretamente no GitHub)
+
+🔗 **Acesse o site aqui:** [Clique para visitar](https://clarckdaivson.github.io/projetoawax/)
+
 
 
 
